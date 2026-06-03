@@ -1,10 +1,14 @@
 # Small Remote Task Services
 
-I offer narrow 24-hour remote tasks and a starter template kit for people building practical freelance workflows.
+I offer narrow 24-hour remote tasks and a starter template kit for practical freelance workflows.
 
 Live service page:
 
 https://didixyy.github.io/remote-freelancer-first-sale-kit/
+
+Contact for task briefs:
+
+331596501@qq.com
 
 ## 10 USD starter tasks
 
