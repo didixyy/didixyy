@@ -14,6 +14,10 @@ Request page:
 
 https://didixyy.github.io/remote-freelancer-first-sale-kit/order.html
 
+Free CSV cleanup tool:
+
+https://didixyy.github.io/remote-freelancer-first-sale-kit/csv-cleaner.html
+
 Free sample workbook:
 
 https://didixyy.github.io/remote-freelancer-first-sale-kit/assets/free-spreadsheet-cleanup-sample.xlsx
@@ -37,6 +41,7 @@ Contact for task briefs:
 ## 10 USD starter tasks
 
 - Clean and format one small spreadsheet.
+- Use the free CSV cleanup tool first, then request manual cleanup if the file needs review.
 - Rewrite one short product description.
 - Turn rough notes into a clean one-page summary.
 - Proofread up to 500 words of English text.
