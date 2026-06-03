@@ -6,6 +6,15 @@ Live service page:
 
 https://didixyy.github.io/remote-freelancer-first-sale-kit/
 
+Fastest 10 USD spreadsheet cleanup request:
+
+1. Open the task request form:
+   https://github.com/didixyy/remote-freelancer-first-sale-kit/issues/new?template=starter-task.yml
+2. Or email a cleanup brief:
+   mailto:331596501@qq.com?subject=Spreadsheet%20cleanup%20brief
+3. Pay only after scope is confirmed:
+   https://paypal.me/yp1233/10USD
+
 Sample task page:
 
 https://didixyy.github.io/remote-freelancer-first-sale-kit/samples.html
