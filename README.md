@@ -26,6 +26,10 @@ Free CSV cleanup checklist:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-checklist.html
 
+Shopify and WooCommerce product CSV cleanup:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/shopify-woocommerce-product-csv-cleanup.html
+
 Fastest 10 USD spreadsheet cleanup request:
 
 1. Start from the direct paid CSV cleanup page:
@@ -72,6 +76,8 @@ Specific CSV cleanup pages:
 - CSV order desk:
   https://github.com/didixyy/remote-freelancer-first-sale-kit/issues/3
 - Shopify and WooCommerce product CSV cleanup:
+  https://didixyy.github.io/csv-cleanup-service-10usd/shopify-woocommerce-product-csv-cleanup.html
+  Focused public Gist:
   https://gist.github.com/didixyy/b4ad31fb6b339e6a876d1c0989fb50e7
 - CSV cleanup examples:
   https://didixyy.github.io/remote-freelancer-first-sale-kit/csv-cleanup-examples.html
