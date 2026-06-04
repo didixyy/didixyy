@@ -71,6 +71,8 @@ Specific CSV cleanup pages:
 
 - CSV order desk:
   https://github.com/didixyy/remote-freelancer-first-sale-kit/issues/3
+- Shopify and WooCommerce product CSV cleanup:
+  https://gist.github.com/didixyy/b4ad31fb6b339e6a876d1c0989fb50e7
 - CSV cleanup examples:
   https://didixyy.github.io/remote-freelancer-first-sale-kit/csv-cleanup-examples.html
 - Product CSV cleanup:
