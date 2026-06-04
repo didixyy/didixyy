@@ -18,6 +18,10 @@ Paid 10 USD CSV cleanup order page:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/paid-csv-cleanup-order.html
 
+Paid order brief release:
+
+https://github.com/didixyy/csv-cleanup-service-10usd/releases/tag/paid-csv-cleanup-order-v1
+
 Focused CSV cleanup request form:
 
 https://github.com/didixyy/csv-cleanup-service-10usd/issues/new?template=csv-cleanup.yml
@@ -111,6 +115,8 @@ Specific CSV cleanup pages:
   https://didixyy.github.io/csv-cleanup-service-10usd/paid-csv-cleanup-order.html
   Focused public Gist:
   https://gist.github.com/didixyy/39afec934e8f50f6c9eab36f3caea997
+  Paid order brief release:
+  https://github.com/didixyy/csv-cleanup-service-10usd/releases/tag/paid-csv-cleanup-order-v1
 - Shopify and WooCommerce product CSV cleanup:
   https://didixyy.github.io/csv-cleanup-service-10usd/shopify-woocommerce-product-csv-cleanup.html
   Focused public Gist:
