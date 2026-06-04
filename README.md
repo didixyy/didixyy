@@ -14,6 +14,10 @@ Focused 10 USD CSV cleanup service:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/
 
+Paid 10 USD CSV cleanup order page:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/paid-csv-cleanup-order.html
+
 Focused CSV cleanup request form:
 
 https://github.com/didixyy/csv-cleanup-service-10usd/issues/new?template=csv-cleanup.yml
@@ -60,8 +64,8 @@ https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-duplicate-row-check
 
 Fastest 10 USD spreadsheet cleanup request:
 
-1. Start from the direct paid CSV cleanup page:
-   https://didixyy.github.io/remote-freelancer-first-sale-kit/start-csv-cleanup.html
+1. Start from the focused paid CSV cleanup order page:
+   https://didixyy.github.io/csv-cleanup-service-10usd/paid-csv-cleanup-order.html
 2. If the file is one CSV or Excel file up to 300 rows and 12 columns, pay 10 USD now:
    https://paypal.me/yp1233/10USD
 3. Then email the paid cleanup brief and include the Payment sender email:
@@ -103,6 +107,10 @@ Specific CSV cleanup pages:
 
 - CSV order desk:
   https://github.com/didixyy/remote-freelancer-first-sale-kit/issues/3
+- Paid 10 USD CSV cleanup order page:
+  https://didixyy.github.io/csv-cleanup-service-10usd/paid-csv-cleanup-order.html
+  Focused public Gist:
+  https://gist.github.com/didixyy/39afec934e8f50f6c9eab36f3caea997
 - Shopify and WooCommerce product CSV cleanup:
   https://didixyy.github.io/csv-cleanup-service-10usd/shopify-woocommerce-product-csv-cleanup.html
   Focused public Gist:
