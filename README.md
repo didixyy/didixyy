@@ -50,6 +50,10 @@ Free CSV header cleanup tool:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-header-cleanup-tool.html
 
+Free CSV duplicate row checker:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-duplicate-row-checker.html
+
 Fastest 10 USD spreadsheet cleanup request:
 
 1. Start from the direct paid CSV cleanup page:
@@ -127,6 +131,10 @@ Specific CSV cleanup pages:
   https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-header-cleanup-tool.html
   Focused public Gist:
   https://gist.github.com/didixyy/015888c04652cb7fd6831f68533162c7
+- Free CSV duplicate row checker:
+  https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-duplicate-row-checker.html
+  Focused public Gist:
+  https://gist.github.com/didixyy/7c48ffebb6dd7dd9972be6f77c1be7d2
 
 Free CSV cleanup tool:
 
