@@ -46,6 +46,10 @@ CSV cleanup brief builder:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-brief-builder.html
 
+Free CSV cleanup audit:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-cleanup-audit.html
+
 Free CSV header cleanup tool:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-header-cleanup-tool.html
@@ -127,6 +131,10 @@ Specific CSV cleanup pages:
   https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-brief-builder.html
   Focused public Gist:
   https://gist.github.com/didixyy/de284f9da1dda46dd1615c133d4ff62d
+- Free CSV cleanup audit:
+  https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-cleanup-audit.html
+  Focused public Gist:
+  https://gist.github.com/didixyy/84da3fad673fdac4242838912e5a63d2
 - Free CSV header cleanup tool:
   https://didixyy.github.io/csv-cleanup-service-10usd/free-csv-header-cleanup-tool.html
   Focused public Gist:
