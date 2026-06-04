@@ -10,6 +10,22 @@ Focused CSV cleanup service repo:
 
 https://github.com/didixyy/csv-cleanup-service-10usd
 
+Focused 10 USD CSV cleanup service:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/
+
+Focused CSV cleanup request form:
+
+https://github.com/didixyy/csv-cleanup-service-10usd/issues/new?template=csv-cleanup.yml
+
+Focused CSV cleanup order desk:
+
+https://github.com/didixyy/csv-cleanup-service-10usd/issues/1
+
+Free CSV cleanup checklist:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-checklist.html
+
 Fastest 10 USD spreadsheet cleanup request:
 
 1. Start from the direct paid CSV cleanup page:
