@@ -42,6 +42,10 @@ Email list CSV cleanup:
 
 https://didixyy.github.io/csv-cleanup-service-10usd/email-list-csv-cleanup.html
 
+CSV cleanup brief builder:
+
+https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-brief-builder.html
+
 Fastest 10 USD spreadsheet cleanup request:
 
 1. Start from the direct paid CSV cleanup page:
@@ -111,6 +115,10 @@ Specific CSV cleanup pages:
   https://didixyy.github.io/csv-cleanup-service-10usd/email-list-csv-cleanup.html
   Focused public Gist:
   https://gist.github.com/didixyy/d52b44680c8c661ea6555611ca4939ca
+- CSV cleanup brief builder:
+  https://didixyy.github.io/csv-cleanup-service-10usd/csv-cleanup-brief-builder.html
+  Focused public Gist:
+  https://gist.github.com/didixyy/de284f9da1dda46dd1615c133d4ff62d
 
 Free CSV cleanup tool:
 
